@@ -1,0 +1,29 @@
+.homeBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+
+    .sectionCards {
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        align-items: center;
+
+        h2 {
+            font-family: "Bebas Neue", sans-serif;
+            font-weight: 400;
+            font-size: 250%;
+            text-shadow: 1px 2px 0px #616581;
+            margin-bottom: 2%;
+        }
+
+        .cardsContainer {
+            display: flex;
+            width: 100%;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}

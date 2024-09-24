@@ -1,0 +1,19 @@
+a {
+  display: flex;
+  width: 100%;
+
+  .cardBlock {
+    display: flex;
+    width: 100%;
+
+    .imageContainer {
+      display: flex;
+      width: 100%;
+
+      img {
+        display: flex;
+        width: 100%;
+      }
+    }
+  }
+}

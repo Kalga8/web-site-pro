@@ -1,0 +1,37 @@
+[
+	{
+		"id": "c67ab8a7",
+		"title": "Booki",
+		"cover": "../assets/thumbnails/booki.webp"
+	},
+
+    {
+		"id": "b9123946",
+		"title": "Sophie Bluel",
+		"cover": "../assets/thumbnails/sophie-bluel.webp"
+	},
+
+    {
+		"id": "46d188c5",
+		"title": "Nina Carducci",
+		"cover": "../assets/thumbnails/nina-carducci.webp"
+	},
+
+    {
+		"id": "7af00cd6",
+		"title": "Kasa",
+		"cover": "../assets/thumbnails/kasa.webp"
+	},
+
+    {
+		"id": "0979876d",
+		"title": "Mon vieux grimoire",
+		"cover": "../assets/thumbnails/mon-vieux-grimoire.webp"
+	},
+
+    {
+		"id": "f72a452f",
+		"title": "Abbé Gerin",
+		"cover": "../assets/thumbnails/abbe-gerin.webp"
+	}
+]
