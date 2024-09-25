@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-function Card({ id, title, cover }) {
+function Card ({ id, title, cover }) {
   const url = `/project/${id} `;
 
   return (

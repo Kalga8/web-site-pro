@@ -8,5 +8,10 @@ header {
     .navbar {
         display: flex;
         padding-top: 1%;
+
+        a {
+            display: flex;
+            background: none;
+        }
     }
 }
