@@ -1,9 +1,10 @@
 import Banner from "../components/Banner"
 import Card from "../components/Card"
+import CompetencesText from "../components/CompetencesText"
+import CompetencesLogos from "../components/CompetencesLogos"
 import presentationImage from "../assets/logos/signature1.webp"
-import Competences from "../components/Competences"
 import projectsData from "../data/projects.json"
-import competencesLogo from "../data/competencesLogo.json"
+import competencesData from "../data/competences.json"
 
 function Home() {
     return (
@@ -28,13 +29,18 @@ function Home() {
             </div>
         </div>
 
-        <Competences
-            key={competencesLogo.id}
-            logo={competencesLogo.logo}
-            alt={competencesLogo.alt}
-            title={competencesLogo.title}
-        />
+        <div className="competencesBlock">
+            <CompetencesText/>
 
+            {competencesData.map((competences) =>
+                <CompetencesLogos
+                    key={competences.id}
+                    logo={competences.logo}
+                    alt={competences.alt}
+                    title={competences.title}
+                />
+            )}
+        </div>
     </div>
     )
 }

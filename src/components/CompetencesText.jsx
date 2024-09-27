@@ -1,4 +1,4 @@
-function Competences (key, logo, title, alt) {
+function competencesText () {
 
     return (
     <div className="competencesContainer">
@@ -17,22 +17,9 @@ function Competences (key, logo, title, alt) {
                     m'adapter aux exigences du secteur. Cette expérience renforce ma capacité à 
                     délivrer des solutions web performantes et adaptées aux besoins du client.</p>
             </div>
-
-            <div className="competencesLogos">
-                <div className="competencesGrid">
-                    <div className="competence-logo">
-                        <img src= {logo} alt= {alt} id={key}/>
-                    </div>
-
-                    <div className="competence-title">
-                        <h3> {title} </h3>
-                    </div>
-                </div>
-            </div>
         </div>
-    
     </div>
     )
 }
 
-export default Competences
+export default competencesText
