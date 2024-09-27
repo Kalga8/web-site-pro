@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import githubLink from "../assets/logos/logo-github.webp"
 import instaLink from "../assets/logos/logo-insta.webp"
 import linkedinLink from "../assets/logos/logo-linkedin.webp"
@@ -17,9 +18,24 @@ function banner ({image, title}) {
             </div>
 
             <div className="verticalLinks">
-                <img className="githubLink" src= {githubLink}/>
-                <img className="instaLink" src= {instaLink}/>
-                <img className="linkedinLink" src= {linkedinLink}/>
+
+                <div className="githubLink" >
+                    <Link to={"https://github.com/Kalga8"}>
+                        <img src= {githubLink}/>
+                    </Link>
+                </div>
+
+                <div className="instaLink">
+                    <Link to={"https://www.instagram.com/jlaunay"}>
+                        <img src= {instaLink}/>
+                    </Link>
+                </div>
+
+                <div className="linkedinLink">
+                    <Link to={"www.linkedin.com/in/justine-launay"}>
+                        <img src= {linkedinLink}/>
+                    </Link>
+                </div>
             </div>
         </div>
     )

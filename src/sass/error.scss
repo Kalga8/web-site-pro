@@ -1,0 +1,32 @@
+.errorMessage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    h2 {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 400;
+        font-size: 1800%;
+        text-shadow: 5px 10px 0px #616581;
+        word-wrap: break-word;
+        margin-bottom: 2%;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 300%;
+        padding-bottom: 10%;
+    }
+
+    .goBackError {
+
+       a {
+        background: none;
+       }
+
+       a:hover {
+        text-decoration: underline;
+       }
+
+    }
+}
