@@ -31,17 +31,17 @@
                 margin-bottom: 2%;
             }
 
-            button {
+            .cvButton a {
                 border: none;
                 background-color: rgba($color: #000000, $alpha: 0.5);
                 cursor: pointer;
-                padding: 3%;
+                padding: 8%;
                 border-radius: 25px;
                 font-size: 100%;
             }
 
-            button:hover {
-                font-size: 105%;
+            a:hover {
+                font-size: 102%;
                 transition: ease-in-out;
             }
         }

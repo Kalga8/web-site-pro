@@ -12,8 +12,11 @@ function banner ({image, title}) {
 
                 <div className="bannerTitle">
                     <h2> {title} </h2>
+        
+                    <div className="cvButton">
+                        <a href="/src/assets/documents/cv_justine-launay.pdf"> Télécharger mon cv </a>
+                    </div>
 
-                <button> Télécharger mon cv </button>
                 </div>
             </div>
 
