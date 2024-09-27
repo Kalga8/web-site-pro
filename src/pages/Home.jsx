@@ -1,7 +1,9 @@
 import Banner from "../components/Banner"
 import Card from "../components/Card"
 import presentationImage from "../assets/logos/signature1.webp"
+import Competences from "../components/Competences"
 import projectsData from "../data/projects.json"
+import competencesLogo from "../data/competencesLogo.json"
 
 function Home() {
     return (
@@ -25,6 +27,14 @@ function Home() {
                 ))}
             </div>
         </div>
+
+        <Competences
+            key={competencesLogo.id}
+            logo={competencesLogo.logo}
+            alt={competencesLogo.alt}
+            title={competencesLogo.title}
+        />
+
     </div>
     )
 }
