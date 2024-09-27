@@ -19,12 +19,14 @@ function Competences (key, logo, title, alt) {
             </div>
 
             <div className="competencesLogos">
-                <div className="competence-logo">
-                    <img src= {logo} alt= {alt} id={key}/>
-                </div>
+                <div className="competencesGrid">
+                    <div className="competence-logo">
+                        <img src= {logo} alt= {alt} id={key}/>
+                    </div>
 
-                <div className="competence-title">
-                    <h3> {title} </h3>
+                    <div className="competence-title">
+                        <h3> {title} </h3>
+                    </div>
                 </div>
             </div>
         </div>
