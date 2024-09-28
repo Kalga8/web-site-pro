@@ -42,11 +42,6 @@ function Carousel({ pictures }) {
       {/*Slide*/}
       <div className="slider">
         <img src={pictures[currentSlide]} alt={`Slide ${currentSlide + 1}`} />
-        {pictures.length > 1 && (
-          <div className="slide-count">
-            <span>{`${currentSlide + 1}/${pictures.length}`}</span>
-          </div>
-        )}
       </div>
     </div>
   );
