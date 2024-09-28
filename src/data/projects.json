@@ -8,6 +8,10 @@
 			"/src/assets/carousel/booki_2.webp"
 		],
 		"description" : "",
+		"competences" : [
+			"",
+			""
+		],
 		"difficulties" : ""
 	},
 
@@ -21,6 +25,10 @@
 			"/src/assets/carousel/sophie-bluel_3.webp"
 		],
 		"description" : "",
+		"competences" : [
+			"",
+			""
+		],
 		"difficulties" : ""
 	},
 
@@ -34,6 +42,10 @@
 			"/src/assets/carousel/nina-carducci_3.webp"
 		],
 		"description" : "",
+		"competences" : [
+			"",
+			""
+		],
 		"difficulties" : ""
 	},
 
@@ -47,6 +59,10 @@
 			"/src/assets/carousel/kasa_3.webp"
 		],
 		"description" : "",
+		"competences" : [
+			"",
+			""
+		],
 		"difficulties" : ""
 	},
 
@@ -60,6 +76,10 @@
 			"/src/assets/carousel/vieux-grimoire_3.webp"
 		],
 		"description" : "",
+		"competences" : [
+			"",
+			""
+		],
 		"difficulties" : ""
 	},
 
@@ -73,6 +93,10 @@
 			"/src/assets/carousel/abbe-gerin_3.webp"
 		],
 		"description" : "",
+		"competences" : [
+			"",
+			""
+		],
 		"difficulties" : ""
 	}
 ]

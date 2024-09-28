@@ -5,23 +5,30 @@ import ProjectText from "../components/ProjectText";
 
 function Project() {
     const { id } = useParams(); /*Hook récupérant l'id depuis URL*/
-    const selectedProjects = projectData.find(
-      (appartement) => appartement.id === id
+    const selectedProject = projectData.find(
+      (project) => project.id === id
     );
   
     /*Gestion erreur id*/
-    if (!selectedProjects) {
+    if (!selectedProject) {
       return <Navigate to="Error" />;
     }
   
     return (
         <div className="projectContainer">
             <div className="ProjectTextBlock">
-                <ProjectText />
+            {projectData.map((project) => (
+                <ProjectText 
+                key={project.id}
+                description={project.description}
+                competences={project.competences}
+                difficulties={project.difficulties}
+                />
+            ))}
             </div>
 
             <div className="CarouselBlock">
-                <Carousel pictures={selectedProjects.pictures} />
+                <Carousel pictures={selectedProject.pictures} />
             </div>
         </div>
     )
