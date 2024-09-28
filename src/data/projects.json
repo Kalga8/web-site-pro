@@ -2,36 +2,65 @@
 	{
 		"id": "c67ab8a7",
 		"title": "Booki",
-		"cover": "/src/assets/thumbnails/booki.webp"
+		"cover": "/src/assets/thumbnails/booki.webp",
+		"pictures": [
+			"/src/assets/carousel/booki_1.webp",
+			"/src/assets/carousel/booki_2.webp"
+		]
 	},
 
     {
 		"id": "b9123946",
 		"title": "Sophie Bluel",
-		"cover": "/src/assets/thumbnails/sophie-bluel.webp"
+		"cover": "/src/assets/thumbnails/sophie-bluel.webp",
+		"pictures": [
+			"/src/assets/carousel/sophie-bluel_1.webp",
+			"/src/assets/carousel/sophie-bluel_2.webp",
+			"/src/assets/carousel/sophie-bluel_3.webp"
+		]
 	},
 
     {
 		"id": "46d188c5",
 		"title": "Nina Carducci",
-		"cover": "/src/assets/thumbnails/nina-carducci.webp"
+		"cover": "/src/assets/thumbnails/nina-carducci.webp",
+		"pictures": [
+			"/src/assets/carousel/nina-carducci_1.webp",
+			"/src/assets/carousel/nina-carducci_2.webp",
+			"/src/assets/carousel/nina-carducci_3.webp"
+		]
 	},
 
     {
 		"id": "7af00cd6",
 		"title": "Kasa",
-		"cover": "/src/assets/thumbnails/kasa.webp"
+		"cover": "/src/assets/thumbnails/kasa.webp",
+		"pictures": [
+			"/src/assets/carousel/kasa_1.webp",
+			"/src/assets/carousel/kasa_2.webp",
+			"/src/assets/carousel/kasa_3.webp"
+		]
 	},
 
     {
 		"id": "0979876d",
 		"title": "Mon vieux grimoire",
-		"cover": "/src/assets/thumbnails/mon-vieux-grimoire.webp"
+		"cover": "/src/assets/thumbnails/mon-vieux-grimoire.webp",
+		"pictures": [
+			"/src/assets/carousel/vieux-grimoire_1.webp",
+			"/src/assets/carousel/vieux-grimoire_2.webp",
+			"/src/assets/carousel/vieux-grimoire_3.webp"
+		]
 	},
 
     {
 		"id": "f72a452f",
 		"title": "Abbé Gerin",
-		"cover": "/src/assets/thumbnails/abbe-gerin.webp"
+		"cover": "/src/assets/thumbnails/abbe-gerin.webp",
+		"pictures": [
+			"/src/assets/carousel/abbe-gerin_1.webp",
+			"/src/assets/carousel/abbe-gerin_2.webp",
+			"/src/assets/carousel/abbe-gerin_3.webp"
+		]
 	}
 ]

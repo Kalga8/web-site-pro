@@ -6,18 +6,22 @@
     list-style: none;
     font-family: "Exo 2", sans-serif;
     color: #efede7;
-    background-color: #051437;
 }
 
-#root {
-    display: flex;
-    justify-content: center;
+body {
+    background: no-repeat url(../assets/background/background.webp);
+    background-size: cover;
 
-    .main-app{
+    #root {
         display: flex;
-        flex-direction: column;
-        align-items: center;
-        width: 100%;
-    }
+        justify-content: center;
+    
+        .main-app{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+}
 }
 
