@@ -20,15 +20,17 @@ function Project() {
             {projectData.map((project) => (
                 <ProjectText 
                 key={project.id}
-                description={project.description}
-                competences={project.competences}
-                difficulties={project.difficulties}
+                description={selectedProject.description}
+                competences={selectedProject.competences}
+                difficulties={selectedProject.difficulties}
                 />
             ))}
             </div>
 
             <div className="CarouselBlock">
-                <Carousel pictures={selectedProject.pictures} />
+                <Carousel 
+                pictures={selectedProject.pictures} 
+                />
             </div>
         </div>
     )

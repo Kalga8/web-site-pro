@@ -1,4 +1,4 @@
-function ProjectText(id, description, competences, difficulties) {
+function ProjectText({id, description, competences, difficulties}) {
     return (
     <div className="textDescription" key={id}>
         <h3> DESCRIPTION </h3>
