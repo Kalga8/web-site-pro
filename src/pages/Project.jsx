@@ -3,11 +3,9 @@ import Carousel from "../components/Carousel";
 import projectData from "../data/projects.json";
 import ProjectText from "../components/ProjectText";
 
-function Project() {
+function Project(title) {
     const { id } = useParams(); /*Hook récupérant l'id depuis URL*/
-    const selectedProject = projectData.find(
-      (project) => project.id === id
-    );
+    const selectedProject = projectData.find((project) => project.id === id);
   
     /*Gestion erreur id*/
     if (!selectedProject) {
@@ -17,14 +15,12 @@ function Project() {
     return (
         <div className="projectContainer">
             <div className="ProjectTextBlock">
-            {projectData.map((project) => (
                 <ProjectText 
-                key={project.id}
+                key={selectedProject.id}
                 description={selectedProject.description}
                 competences={selectedProject.competences}
                 difficulties={selectedProject.difficulties}
                 />
-            ))}
             </div>
 
             <div className="CarouselBlock">

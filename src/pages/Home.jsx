@@ -20,6 +20,7 @@ function Home() {
               id={projects.id}
               title={projects.title}
               cover={projects.cover}
+              alt={projects.alt}
             />
           ))}
         </div>

@@ -7,12 +7,9 @@
 			"/src/assets/carousel/booki_1.webp",
 			"/src/assets/carousel/booki_2.webp"
 		],
-		"description" : "",
-		"competences" : [
-			"",
-			""
-		],
-		"difficulties" : ""
+		"description" : "L'entreprise Booki souhaitait développer un site Internet permettant aux utilisateurs de trouver des hébergements et des activités dans la ville de leur choix. Lors de ce projet, j'ai été chargé d'intégrer les maquettes fournies par l'UI designer, en utilisant HTML et CSS pour les versions desktop, tablette et mobile. J'ai également collaboré étroitement avec la CTO, pour assurer la conformité technique et la performance du site.",
+		"competences" : "HTML, Github",
+		"difficulties" : "Découverte de Github"
 	},
 
     {
