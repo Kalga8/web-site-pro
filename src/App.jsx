@@ -3,6 +3,7 @@ import Header from "./components/Header"
 import Home from "./pages/Home"
 import Project from "./pages/Project"
 import Error from "./pages/Error"
+import Footer from "./components/Footer"
 
 function App() {
   return (
