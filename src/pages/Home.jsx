@@ -3,8 +3,8 @@ import Card from "../components/Card";
 import CompetencesText from "../components/CompetencesText";
 import CompetencesLogos from "../components/CompetencesLogos";
 import presentationImage from "/src/assets/profils/profil-dev-web.webp";
-import projectsData from "/data/projects.json";
-import competencesData from "/data/competences.json";
+import projectsData from "../data/projects.json";
+import competencesData from "../data/competences.json";
 
 function Home() {
   return (
