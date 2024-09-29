@@ -1,0 +1,57 @@
+[
+    {
+        "id": "L1",
+        "logo": "/src/assets/logos/logo-html.webp",
+        "alt": "Html",
+        "title": "HTML"
+    },
+
+    {
+        "id": "L2",
+        "logo": "/src/assets/logos/logo-javascript.webp",
+        "alt": "Logo Javascript",
+        "title": "JAVASCRIPT"
+    },
+
+    {
+        "id": "L3",
+        "logo": "/src/assets/logos/logo-react.webp",
+        "alt": "Logo React",
+        "title": "REACT"
+    },
+
+    {
+        "id": "L4",
+        "logo": "/src/assets/logos/logo-seo.webp",
+        "alt": "Logo SEO",
+        "title": "SEO"
+    },
+
+    {
+        "id": "L5",
+        "logo": "/src/assets/logos/logo-sass.webp",
+        "alt": "Logo Sass",
+        "title": "SASS"
+    },
+
+    {
+        "id": "L6",
+        "logo": "/src/assets/logos/logo-node.js.webp",
+        "alt": "Logo Node.js",
+        "title": "NODE.JS"
+    },
+
+    {
+        "id": "L7",
+        "logo": "/src/assets/logos/logo-wordpress.webp",
+        "alt": "Logo Wordpress",
+        "title": "WORDPRESS"
+    },
+
+    {
+        "id": "L8",
+        "logo": "/src/assets/logos/logo-express.webp",
+        "alt": "Logo Express",
+        "title": "EXPRESS"
+    }
+]
