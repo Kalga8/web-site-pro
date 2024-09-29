@@ -9,7 +9,7 @@ import competencesData from "../data/competences.json";
 function Home() {
   return (
     <div className="homeBody">
-      <Banner image={presentationImage} title="Développeuse Front-end" />
+      <Banner image={presentationImage}  title="Développeuse Front-end" />
 
       <div className="sectionCards">
         <h2>MON PORTFOLIO</h2>

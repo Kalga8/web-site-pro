@@ -8,7 +8,7 @@ function banner ({image, title}) {
         <div className="banner-container">
             <div className="presentation">
                 <img className="presentationImage"
-                src={image}/>
+                src={image} alt="image-web-profil"/>
 
                 <div className="bannerTitle">
                     <h1> {title} </h1>
@@ -23,19 +23,19 @@ function banner ({image, title}) {
 
                 <div className="githubLink" >
                     <Link to={"https://github.com/Kalga8"}>
-                        <img src= {githubLink}/>
+                        <img src= {githubLink} alt="logo-github"/>
                     </Link>
                 </div>
 
                 <div className="instaLink">
                     <Link to={"https://www.instagram.com/jlaunay"}>
-                        <img src= {instaLink}/>
+                        <img src= {instaLink} alt="logo-instagram"/>
                     </Link>
                 </div>
 
                 <div className="linkedinLink">
                     <Link to={"www.linkedin.com/in/justine-launay"}>
-                        <img src= {linkedinLink}/>
+                        <img src= {linkedinLink} alt="logo-linkedin"/>
                     </Link>
                 </div>
             </div>
