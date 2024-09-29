@@ -2,7 +2,7 @@ import Banner from "../components/Banner";
 import Card from "../components/Card";
 import CompetencesText from "../components/CompetencesText";
 import CompetencesLogos from "../components/CompetencesLogos";
-import presentationImage from "../assets/logos/signature1.webp";
+import presentationImage from "/src/assets/profils/profil-dev-web.webp";
 import projectsData from "../data/projects.json";
 import competencesData from "../data/competences.json";
 
