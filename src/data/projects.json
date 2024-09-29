@@ -21,12 +21,9 @@
 			"/src/assets/carousel/sophie-bluel_2.webp",
 			"/src/assets/carousel/sophie-bluel_3.webp"
 		],
-		"description" : "",
-		"competences" : [
-			"",
-			""
-		],
-		"difficulties" : ""
+		"description" : "L'architecte Sophie Bluel souhaitait créer un site portfolio de son travail. En tant que développeuse Front-end, j'ai eu trois principales missions : développer la page de présentation des travaux de l'architecte en partant d'un HTML fourni, créer une page de connexion pour l’administrateur du site, et développer une modale permettant d'uploader de nouveaux médias.",
+		"competences" : "JavaScript",
+		"difficulties" : "Premier site codé en JavaScript"
 	},
 
     {
@@ -38,12 +35,9 @@
 			"/src/assets/carousel/nina-carducci_2.webp",
 			"/src/assets/carousel/nina-carducci_3.webp"
 		],
-		"description" : "",
-		"competences" : [
-			"",
-			""
-		],
-		"difficulties" : ""
+		"description" : "En tant que développeuse Freelance, j'ai également proposé mes services d'optimisation SEO à Nina Carducci, photographe professionnelle.",
+		"competences" : "SEO",
+		"difficulties" : "Optimisation des images un peu longue"
 	},
 
     {
@@ -55,12 +49,9 @@
 			"/src/assets/carousel/kasa_2.webp",
 			"/src/assets/carousel/kasa_3.webp"
 		],
-		"description" : "",
-		"competences" : [
-			"",
-			""
-		],
-		"difficulties" : ""
+		"description" : "Le site, initialement développé en ASP.NET il y a plus de 10 ans, a fait l’objet d’une refonte totale pour adopter une stack JavaScript moderne avec NodeJS côté back-end et React côté front-end. En parallèle, Kasa a commandé de nouvelles maquettes à son designer freelance, rendant ce projet de modernisation particulièrement ambitieux pour l'année. En tant que développeuse Front-end pour l'entreprise Kasa j'ai été chargée du projet.",
+		"competences" : "React, Sass",
+		"difficulties" : "Utilisation de Vite au lieu de CreateReactApp"
 	},
 
     {
@@ -72,12 +63,9 @@
 			"/src/assets/carousel/vieux-grimoire_2.webp",
 			"/src/assets/carousel/vieux-grimoire_3.webp"
 		],
-		"description" : "",
-		"competences" : [
-			"",
-			""
-		],
-		"difficulties" : ""
+		"description" : "La chaîne de librairie “Le Vieux Grimoire” situé à Lille souhaitait ouvrir un site de notation de livres appelé “Mon vieux Grimoire”. Le site permettra aux membres d’ajouter un nouveau livre et de mettre une note visible par le public. En lien avec l'équipe Front-end, j'ai été chargée de la partie Back-end.",
+		"competences" : "Node.js, Express",
+		"difficulties" : "Beaucoup de nouvelles notions d'un coup"
 	},
 
     {
@@ -89,11 +77,8 @@
 			"/src/assets/carousel/abbe-gerin_2.webp",
 			"/src/assets/carousel/abbe-gerin_3.webp"
 		],
-		"description" : "",
-		"competences" : [
-			"",
-			""
-		],
-		"difficulties" : ""
+		"description" : "Le groupe en charge du procès de canonisation de l'Abbé Gerin souhaitait créer un site pour y regrouper les informations. Le CMS WordPress à été choisi pour sa facilité de création et de prise en main.",
+		"competences" : "Wordpress",
+		"difficulties" : "Auto-formation sur WordPress"
 	}
 ]

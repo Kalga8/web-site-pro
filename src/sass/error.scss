@@ -1,3 +1,5 @@
+@media screen and (min-width: 769px) {
+
 .errorMessage {
     display: flex;
     flex-direction: column;
@@ -28,5 +30,39 @@
         text-decoration: underline;
        }
 
+    }
+}
+}
+
+@media screen and (max-width: 768px) {
+    .errorMessage {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        min-height: 800px;
+    
+        h2 {
+            font-family: "Bebas Neue", sans-serif;
+            font-weight: 400;
+            font-size: 1800%;
+            text-shadow: 5px 10px 0px #616581;
+            word-wrap: break-word;
+            margin: 2% 0%;
+        }
+    
+        p {
+            font-weight: 400;
+            font-size: 300%;
+            padding-bottom: 15%;
+            text-align: center;
+        }
+    
+        .goBackError {
+    
+           a {
+            background: none;
+           }
+    
+        }
     }
 }

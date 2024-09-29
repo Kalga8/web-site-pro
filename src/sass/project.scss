@@ -1,3 +1,4 @@
+@media screen and (min-width: 769px) {
 .projectContainer {
     display: grid;
     width: 90%;
@@ -35,6 +36,54 @@
 
             p {
                 text-align: justify;
+            }
+        }
+    }
+}
+}
+
+@media screen and (max-width: 768px) {
+    .projectContainer {
+        display: flex;
+        flex-direction: column-reverse;
+        width: 90%;
+        align-items: center;
+    
+        .ProjectTextBlock {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            padding: 10% 0% 10% 0%;
+    
+            .textDescription {
+                display: flex;
+                flex-direction: column;
+                width: 80%;
+                background-color: rgba($color: #000000, $alpha: 0.5);
+                padding: 4%;
+                border-radius: 15px;
+    
+                h3 {
+                    font-family: "Bebas Neue", sans-serif;
+                    font-weight: 400;
+                    font-size: 200%;
+                    text-shadow: 1px 3px 0px #616581;
+                    word-wrap: break-word;
+                    margin: 4% 0% 1% 0%;
+                }
+    
+                h4 {
+                    font-family: "Bebas Neue", sans-serif;
+                    font-weight: 400;
+                    font-size: 150%;
+                    text-shadow: 1px 2px 0px #616581;
+                    word-wrap: break-word;
+                    margin: 4% 0% 1% 0%;
+                }
+    
+                p {
+                    text-align: justify;
+                }
             }
         }
     }
