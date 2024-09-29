@@ -10,6 +10,10 @@ export default defineConfig({
       {
         src: 'src/data/*.json',
         dest: 'data'
+      },
+      {
+        src: 'src/assets/**/*',
+        dest: 'images'
       }
     ]
   })
