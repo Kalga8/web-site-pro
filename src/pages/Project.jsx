@@ -1,6 +1,6 @@
 import { Navigate, useParams } from "react-router-dom";
 import Carousel from "../components/Carousel";
-import projectData from "/projects.json";
+import projectData from "/src/data/projects.json";
 import ProjectText from "../components/ProjectText";
 
 function Project(title) {
