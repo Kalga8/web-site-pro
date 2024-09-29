@@ -1,5 +1,4 @@
 function competencesText () {
-
     return (
     <div className="competencesContainer">
             
