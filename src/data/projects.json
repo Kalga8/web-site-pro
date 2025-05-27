@@ -1,84 +1,170 @@
-[
-	{
-		"id": "c67ab8a7",
-		"title": "Booki",
-		"cover": "/images/thumbnails/booki.webp",
-		"pictures": [
-			"/images/carousel/booki_1.webp",
-			"/images/carousel/booki_2.webp"
-		],
-		"description" : "L'entreprise Booki souhaitait développer un site Internet permettant aux utilisateurs de trouver des hébergements et des activités dans la ville de leur choix. Lors de ce projet, j'ai été chargé d'intégrer les maquettes fournies par l'UI designer, en utilisant HTML et CSS pour les versions desktop, tablette et mobile. J'ai également collaboré étroitement avec la CTO, pour assurer la conformité technique et la performance du site.",
-		"competences" : "HTML, Github",
-		"difficulties" : "Découverte de Github"
-	},
-
+{
+  "project": [
     {
-		"id": "b9123946",
-		"title": "Sophie Bluel",
-		"cover": "/images/thumbnails/sophie-bluel.webp",
-		"pictures": [
-			"/images/carousel/sophie-bluel_1.webp",
-			"/images/carousel/sophie-bluel_2.webp",
-			"/images/carousel/sophie-bluel_3.webp"
-		],
-		"description" : "L'architecte Sophie Bluel souhaitait créer un site portfolio de son travail. En tant que développeuse Front-end, j'ai eu trois principales missions : développer la page de présentation des travaux de l'architecte en partant d'un HTML fourni, créer une page de connexion pour l’administrateur du site, et développer une modale permettant d'uploader de nouveaux médias.",
-		"competences" : "JavaScript",
-		"difficulties" : "Premier site codé en JavaScript"
-	},
-
+      "id": "8c5f2e1a",
+      "title": "Sacré-Coeur",
+      "cover": "src/assets/thumbnails/thumbnail_sacre_coeur.webp",
+      "pictures": [
+        "src/assets/carousel/sacre_coeur/sacre_coeur_01.webp",
+        "src/assets/carousel/sacre_coeur/sacre_coeur_02.webp",
+        "src/assets/carousel/sacre_coeur/sacre_coeur_03.webp",
+        "src/assets/carousel/sacre_coeur/sacre_coeur_04.webp",
+        "src/assets/carousel/sacre_coeur/sacre_coeur_05.webp",
+        "src/assets/carousel/sacre_coeur/sacre_coeur_06.webp",
+        "src/assets/carousel/sacre_coeur/sacre_coeur_07.webp",
+        "src/assets/carousel/sacre_coeur/sacre_coeur_08.webp",
+        "src/assets/carousel/sacre_coeur/sacre_coeur_09.webp",
+        "src/assets/carousel/sacre_coeur/sacre_coeur_10.webp"
+      ],
+      "description": "Cette exposition a été conçue pour faire redécouvrir aux visiteurs, croyants ou curieux, la richesse spirituelle, historique et humaine du culte du Sacré-Cœur. L’exposition, dans un graphisme clair, solennel et épuré, retrace les grandes étapes de la révélation du Sacré-Cœur, depuis les apparitions du Christ à Sainte Marguerite-Marie Alacoque à Paray-le-Monial au XVIIe siècle, jusqu’à la dévotion enracinée à Grenoble."
+    },
     {
-		"id": "46d188c5",
-		"title": "Nina Carducci",
-		"cover": "/images/thumbnails/nina-carducci.webp",
-		"pictures": [
-			"/images/carousel/nina-carducci_1.webp",
-			"/images/carousel/nina-carducci_2.webp",
-			"/images/carousel/nina-carducci_3.webp"
-		],
-		"description" : "En tant que développeuse Freelance, j'ai également proposé mes services d'optimisation SEO à Nina Carducci, photographe professionnelle.",
-		"competences" : "SEO",
-		"difficulties" : "Optimisation des images un peu longue"
-	},
+      "id": "f5a9c2d1",
+      "title": "Sainte Épine",
+      "cover": "src/assets/thumbnails/thumbnail_sainte_epine.webp",
+      "pictures": [
+        "src/assets/carousel/sainte_epine/sainte_epine_01.webp",
+        "src/assets/carousel/sainte_epine/sainte_epine_02.webp"
+      ],
+      "description": "Réalisée pour la cathédrale Notre-Dame de Grenoble, cette exposition propose une plongée dans l’histoire méconnue et pourtant profondément enracinée de deux reliques précieuses conservées à Grenoble : les saintes Épines vénérées jadis par les Clarisses et les Dominicaines. Témoins de la foi populaire et de la dévotion chrétienne autour de la Passion du Christ, ces épines issues – selon la tradition – de la Couronne portée par Jésus, ont traversé les siècles, les troubles politiques et les mutations religieuses. Les panneaux de l’exposition adoptent un graphisme à la fois simple et solennel, centré sur la lisibilité du texte et la mise en valeur du récit historique."
 
+    },
     {
-		"id": "7af00cd6",
-		"title": "Kasa",
-		"cover": "/images/thumbnails/kasa.webp",
-		"pictures": [
-			"/images/carousel/kasa_1.webp",
-			"/images/carousel/kasa_2.webp",
-			"/images/carousel/kasa_3.webp"
-		],
-		"description" : "Le site, initialement développé en ASP.NET il y a plus de 10 ans, a fait l’objet d’une refonte totale pour adopter une stack JavaScript moderne avec NodeJS côté back-end et React côté front-end. En parallèle, Kasa a commandé de nouvelles maquettes à son designer freelance, rendant ce projet de modernisation particulièrement ambitieux pour l'année. En tant que développeuse Front-end pour l'entreprise Kasa j'ai été chargée du projet.",
-		"competences" : "React, Sass",
-		"difficulties" : "Utilisation de Vite au lieu de CreateReactApp"
-	},
+      "id": "a1b2c3d4",
+      "title": "Aumôniers du CHU",
+      "cover": "src/assets/thumbnails/thumbnail _aumonier_chu.webp",
+      "pictures": [
+        "src/assets/carousel/aumonier_chu/aumonier_chu_01.webp",
+        "src/assets/carousel/aumonier_chu/aumonier_chu_02.webp",
+        "src/assets/carousel/aumonier_chu/aumonier_chu_03.webp",
+        "src/assets/carousel/aumonier_chu/aumonier_chu_04.webp",
+        "src/assets/carousel/aumonier_chu/aumonier_chu_05.webp",
+        "src/assets/carousel/aumonier_chu/aumonier_chu_06.webp"
+      ],
+      "description": "« Portraits d’aumôniers hospitaliers » est une série de vidéos consacrée aux femmes et aux hommes qui accompagnent spirituellement les patients dans les hôpitaux. Chaque épisode dresse le portrait sincère d’un aumônier ou d’une aumônière, au plus près de leur quotidien. Leur mission : écouter, soutenir, apaiser, dans le respect des convictions de chacun. Ces témoignages mettent en lumière une présence discrète mais essentielle au cœur de l’hôpital. Une série humaine et touchante à découvrir sur YouTube : https://www.youtube.com/watch?v=bGsPrhovBIM&list=PL60MV0tnEEaSA0qr7gonMdXtEgpSTVEmM"
+    },
+    {
+      "id": "f8e7d6c5",
+      "title": "La Bienvenue",
+      "cover": "src/assets/thumbnails/thumbnail_la_bienvenue.webp",
+      "pictures": [
+        "src/assets/carousel/la_bienvenue/la_bienvenue_01.webp"
+      ],
+      "description": "Une vidéo promotionnelle pour La Bienvenue, lieu d’accueil chaleureux, à deux pas du tram Notre-Dame-Musée, ouvert à tous sans distinction. On peut y faire une pause, discuter, lire, ou simplement partager un café. Depuis 2019, des ateliers, des expositions et des temps d’écoute y sont proposés. C’est un espace où chacun peut se sentir respecté, écouté et libre d’être soi-même. Un endroit simple et essentiel, à découvrir au cœur de la ville : https://www.youtube.com/watch?v=HrLyMqsdGs4"
+    },
+    {
+      "id": "2g3h4j5k",
+      "title": "Saints du diocèse",
+      "cover": "src/assets/thumbnails/thumbnail_saints_du_diocese.webp",
+      "pictures": [
+        "src/assets/carousel/saints_du_diocese/saint_du_diocese_01.webp"
+      ],
+      "description": "Ces visuels mettent à l’honneur les saints du diocèse de Grenoble-Vienne. L'illustration mêle un style classique et réaliste à une touche contemporaine avec un fond aquarelle aux teintes chaudes (orange, rouge, rose), encadré par un carré blanc épuré qui structure la composition.\nLes textes typographiques, clairs et modernes, apportent une lisibilité immédiate : nom du saint, fonction, date de fête. Ce graphisme permet une identité visuelle harmonisée pour tous les saints du diocèse."
+    },
+    {
+      "id": "f72a452f",
+      "title": "Abbé Gerin - Instagram",
+      "cover": "src/assets/thumbnails/thumbnail_abbe_gerin.webp",
+      "pictures": [
+        "src/assets/carousel/abbe_gerin/abbe_gerin_04.webp"
+      ],
+      "description": "Cette publication Instagram propose une composition artistique riche et symbolique autour de la figure de l’abbé Gerin, en vue de faire rayonner sa mémoire et sa cause de canonisation. Au centre de l’image, le portrait de l’abbé Gerin, traité dans des tons de bleu profonds, capte immédiatement le regard et s’impose comme le point focal de la composition. Autour de lui se déploie un riche univers visuel composé d’éléments étroitement liés à sa vie et à son époque : des édifices religieux, des personnages historiques, des objets symboliques, ainsi que des paysages et scènes de prière. L’ensemble est uni par une palette de couleurs vives et contrastées – bleus, rouges, ors, ocres et roses – qui compose une mosaïque à la fois dynamique et évocatrice, mettant en lumière la fécondité spirituelle de l’abbé et la pertinence de son héritage aujourd’hui. En arrière-plan, un motif géométrique discret sur fond blanc apporte une note de noblesse et de modernité."
+    },
+    {
+      "id": "v3w2x1y0",
+      "title": "Pèlerinage en Turquie",
+      "cover": "src/assets/thumbnails/thumbnail_pelerinage_turquie.webp",
+      "pictures": [
+        "src/assets/carousel/pelerinage_turquie/pelerinage_turquie_01.webp"
+      ],
+      "description": "L’affiche met en valeur une illustration stylisée et lumineuse de paysages urbains inspirés des grands édifices byzantins de Turquie : coupoles, minarets, églises, basiliques et monastères s’entrelacent harmonieusement dans une composition riche et dense. Le visuel est dominé par des teintes chaudes et contrastées (orange, ocre, bleu, vert sapin), évoquant la richesse architecturale et spirituelle de l’Orient chrétien. Au sommet, un ciel en dégradé illustre la diversité des traditions chrétiennes représentées"
+    },
+    {
+      "id": "m9n0p1q2",
+      "title": "Pastorale des divorcés",
+      "cover": "src/assets/thumbnails/thumbnail_pastorale_des_divorces.webp",
+      "pictures": [
+        "src/assets/carousel/pastorale_des_divorces/pastorale_des_divorces_01.webp"
+      ],
+      "description": "Le visuel adopte une charte graphique simple, moderne et lisible, basée sur un duo de couleurs sobres : bleu nuit et rose poudré.\nL'illustration au centre représente un homme et une femme dos à dos, symbolisant la séparation, devant une église dessinée en ligne claire. Le contraste entre l’expression sérieuse des personnages et l’arrière-plan doux souligne la complexité humaine du thème, tout en laissant transparaître l’accueil de l’Église en toile de fond."
+    },
+    {
+      "id": "h7i6j5k4",
+      "title": "Abbé Gerin",
+      "cover": "src/assets/thumbnails/thumbnail_abbe_gerin.webp",
+      "pictures": [
+        "src/assets/carousel/abbe_gerin/abbe_gerin_01.webp",
+        "src/assets/carousel/abbe_gerin/abbe_gerin_02.webp",
+        "src/assets/carousel/abbe_gerin/abbe_gerin_03.webp"
 
+      ],
+      "description": "Dans le cadre du procès en canonisation de l’Abbé Pierre-Victor Gerin, un groupe de fidèles s’est réuni pour valoriser sa mémoire, diffuser sa pensée et faire connaître son témoignage de vie. Afin de regrouper l’ensemble des informations utiles – textes, documents, actualités et ressources spirituelles – un site web dédié a été créé.Le choix du CMS WordPress s’est imposé pour sa simplicité d’utilisation, sa souplesse de mise à jour et la possibilité pour les membres du groupe en charge du projet de gérer eux-mêmes les contenus, en toute autonomie."
+    }
+  ],
+  "sites": [
     {
-		"id": "0979876d",
-		"title": "Mon vieux grimoire",
-		"cover": "/images/thumbnails/mon-vieux-grimoire.webp",
-		"pictures": [
-			"/images/carousel/vieux-grimoire_1.webp",
-			"/images/carousel/vieux-grimoire_2.webp",
-			"/images/carousel/vieux-grimoire_3.webp"
-		],
-		"description" : "La chaîne de librairie “Le Vieux Grimoire” situé à Lille souhaitait ouvrir un site de notation de livres appelé “Mon vieux Grimoire”. Le site permettra aux membres d’ajouter un nouveau livre et de mettre une note visible par le public. En lien avec l'équipe Front-end, j'ai été chargée de la partie Back-end.",
-		"competences" : "Node.js, Express",
-		"difficulties" : "Beaucoup de nouvelles notions d'un coup"
-	},
-
+      "id": "c67ab8a7",
+      "title": "Booki",
+      "cover": "/images/thumbnails/booki.webp",
+      "pictures": [
+        "/images/carousel/booki_1.webp",
+        "/images/carousel/booki_2.webp"
+      ],
+      "description": "L'entreprise Booki souhaitait développer un site Internet permettant aux utilisateurs de trouver des hébergements et des activités dans la ville de leur choix. Lors de ce projet, j'ai été chargé d'intégrer les maquettes fournies par l'UI designer, en utilisant HTML et CSS pour les versions desktop, tablette et mobile. J'ai également collaboré étroitement avec la CTO, pour assurer la conformité technique et la performance du site.",
+      "competences": "HTML, Github",
+      "difficulties": "Découverte de Github"
+    },
     {
-		"id": "f72a452f",
-		"title": "Abbé Gerin",
-		"cover": "/images/thumbnails/abbe-gerin.webp",
-		"pictures": [
-			"/images/carousel/abbe-gerin_1.webp",
-			"/images/carousel/abbe-gerin_2.webp",
-			"/images/carousel/abbe-gerin_3.webp"
-		],
-		"description" : "Le groupe en charge du procès de canonisation de l'Abbé Gerin souhaitait créer un site pour y regrouper les informations. Le CMS WordPress à été choisi pour sa facilité de création et de prise en main.",
-		"competences" : "Wordpress",
-		"difficulties" : "Auto-formation sur WordPress"
-	}
-]
+      "id": "b9123946",
+      "title": "Sophie Bluel",
+      "cover": "/images/thumbnails/sophie-bluel.webp",
+      "pictures": [
+        "/images/carousel/sophie-bluel_1.webp",
+        "/images/carousel/sophie-bluel_2.webp",
+        "/images/carousel/sophie-bluel_3.webp"
+      ],
+      "description": "L'architecte Sophie Bluel souhaitait créer un site portfolio de son travail. En tant que développeuse Front-end, j'ai eu trois principales missions : développer la page de présentation des travaux de l'architecte en partant d'un HTML fourni, créer une page de connexion pour l’administrateur du site, et développer une modale permettant d'uploader de nouveaux médias.",
+      "competences": "JavaScript",
+      "difficulties": "Premier site codé en JavaScript"
+    },
+    {
+      "id": "46d188c5",
+      "title": "Nina Carducci",
+      "cover": "/images/thumbnails/nina-carducci.webp",
+      "pictures": [
+        "/images/carousel/nina-carducci_1.webp",
+        "/images/carousel/nina-carducci_2.webp",
+        "/images/carousel/nina-carducci_3.webp"
+      ],
+      "description": "En tant que développeuse Freelance, j'ai également proposé mes services d'optimisation SEO à Nina Carducci, photographe professionnelle.",
+      "competences": "SEO",
+      "difficulties": "Optimisation des images un peu longue"
+    },
+    {
+      "id": "7af00cd6",
+      "title": "Kasa",
+      "cover": "/images/thumbnails/kasa.webp",
+      "pictures": [
+        "/images/carousel/kasa_1.webp",
+        "/images/carousel/kasa_2.webp",
+        "/images/carousel/kasa_3.webp"
+      ],
+      "description": "Le site, initialement développé en ASP.NET il y a plus de 10 ans, a fait l’objet d’une refonte totale pour adopter une stack JavaScript moderne avec NodeJS côté back-end et React côté front-end. En parallèle, Kasa a commandé de nouvelles maquettes à son designer freelance, rendant ce projet de modernisation particulièrement ambitieux pour l'année. En tant que développeuse Front-end pour l'entreprise Kasa j'ai été chargée du projet.",
+      "competences": "React, Sass",
+      "difficulties": "Utilisation de Vite au lieu de CreateReactApp"
+    },
+    {
+      "id": "0979876d",
+      "title": "Mon vieux grimoire",
+      "cover": "/images/thumbnails/mon-vieux-grimoire.webp",
+      "pictures": [
+        "/images/carousel/vieux-grimoire_1.webp",
+        "/images/carousel/vieux-grimoire_2.webp",
+        "/images/carousel/vieux-grimoire_3.webp"
+      ],
+      "description": "La chaîne de librairie “Le Vieux Grimoire” situé à Lille souhaitait ouvrir un site de notation de livres appelé “Mon vieux Grimoire”. Le site permettra aux membres d’ajouter un nouveau livre et de mettre une note visible par le public. En lien avec l'équipe Front-end, j'ai été chargée de la partie Back-end.",
+      "competences": "Node.js, Express",
+      "difficulties": "Beaucoup de nouvelles notions d'un coup"
+    }
+  ]
+}

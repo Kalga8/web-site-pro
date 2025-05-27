@@ -1,57 +1,57 @@
 [
     {
         "id": "L1",
-        "logo": "/images/logos/logo-html.webp",
-        "alt": "Logo Html",
-        "title": "HTML"
+        "logo": "src/assets/logos/logo-premiere-pro.webp",
+        "alt": "Logo Premiere Pro",
+        "title": "PREMIÈRE PRO"
     },
 
     {
         "id": "L2",
-        "logo": "/images/logos/logo-javascript.webp",
-        "alt": "Logo Javascript",
-        "title": "JAVASCRIPT"
+        "logo": "/src/assets/logos/logo-lightroom.webp",
+        "alt": "Logo Lightroom",
+        "title": "LIGHTROOM"
     },
 
     {
         "id": "L3",
-        "logo": "/images/logos/logo-react.webp",
-        "alt": "Logo React",
-        "title": "REACT"
+        "logo": "src/assets/logos/logo-photoshop.webp",
+        "alt": "Logo Photoshop",
+        "title": "PHOTOSHOP"
     },
 
     {
         "id": "L4",
-        "logo": "/images/logos/logo-seo.webp",
-        "alt": "Logo SEO",
-        "title": "SEO"
+        "logo": "src/assets/logos/logo-canva.webp",
+        "alt": "Logo Canva",
+        "title": "CANVA"
     },
 
     {
         "id": "L5",
-        "logo": "/images/logos/logo-sass.webp",
-        "alt": "Logo Sass",
-        "title": "SASS"
-    },
-
-    {
-        "id": "L6",
-        "logo": "/images/logos/logo-node.js.webp",
-        "alt": "Logo Node.js",
-        "title": "NODE.JS"
-    },
-
-    {
-        "id": "L7",
-        "logo": "/images/logos/logo-wordpress.webp",
-        "alt": "Logo Wordpress",
+        "logo": "src/assets/logos/logo-wordpress.webp",
+        "alt": "Logo WordPress",
         "title": "WORDPRESS"
     },
 
     {
+        "id": "L6",
+        "logo": "src/assets/logos/logo-microsoft.webp",
+        "alt": "Logo Microsoft",
+        "title": "MICROSOFT"
+    },
+
+    {
+        "id": "L7",
+        "logo": "src/assets/logos/logo-chatgpt.webp",
+        "alt": "Logo Chat GPT",
+        "title": "CHATGPT"
+    },
+
+    {
         "id": "L8",
-        "logo": "/images/logos/logo-express.webp",
-        "alt": "Logo Express",
-        "title": "EXPRESS"
+        "logo": "src/assets/logos/logo-slack.webp",
+        "alt": "Logo Slack",
+        "title": "SLACK"
     }
 ]

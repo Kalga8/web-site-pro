@@ -3,13 +3,13 @@ import Carousel from "../components/Carousel";
 import projectData from "../data/projects.json";
 import ProjectText from "../components/ProjectText";
 
-function Project(title) {
-    const { id } = useParams(); /*Hook récupérant l'id depuis URL*/
-    const selectedProject = projectData.find((project) => project.id === id);
+function Project() {
+    const { id } = useParams();
+    const selectedProject = projectData.project.find((project) => project.id === id);
   
-    /*Gestion erreur id*/
+    // --- Gestion erreur id non trouvée ---
     if (!selectedProject) {
-      return <Navigate to="Error" />;
+      return <Navigate to="/Error" />;
     }
   
     return (
@@ -18,8 +18,8 @@ function Project(title) {
                 <ProjectText 
                 key={selectedProject.id}
                 description={selectedProject.description}
-                competences={selectedProject.competences}
-                difficulties={selectedProject.difficulties}
+                // competences={selectedProject.competences}
+                // difficulties={selectedProject.difficulties}
                 />
             </div>
 

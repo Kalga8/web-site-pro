@@ -5,15 +5,7 @@ function competencesText () {
         <h2> MES COMPÉTENCES </h2>
 
         <div className="competencesText">
-            <p>Depuis plus d'un an,  j'ai l'opportunité de consolider mes compétences techniques 
-                et pratiques à travers une formation en alternance, alliant enseignement théorique
-                et expérience professionnelle.
-                Cette approche me permet de maîtriser des technologies clés du développement web, 
-                telles que HTML, CSS, JavaScript, ainsi que des frameworks modernes comme React.
-                En parallèle, mon immersion en entreprise m'offre l'occasion de contribuer à des 
-                projets concrets, d'appliquer directement les connaissances acquises et de 
-                m'adapter aux exigences du secteur. Cette expérience renforce ma capacité à 
-                délivrer des solutions web performantes et adaptées aux besoins du client.</p>
+            <p>Je maîtrise les outils de création visuelle et vidéo tels que Photoshop, Lightroom, Première Pro et Canva. Formée au développement web, je suis à l’aise avec le code (HTML, CSS, bases de JavaScript) en plus de la gestion de sites sous WordPress. Je suis également à l’aise avec la gestion de sites web via WordPress, ainsi qu’avec les outils collaboratifs comme la suite Microsoft, Slack et ChatGPT. <br/> Mon expérience en communication digitale m’a permis de développer des contenus variés, adaptés à différents publics et supports. Créative, organisée et autonome, je sais m’adapter aux besoins d’une équipe ou d’un projet.</p>
         </div>
     </div>
     )

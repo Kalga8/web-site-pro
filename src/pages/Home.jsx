@@ -14,7 +14,7 @@ function Home() {
       <div className="sectionCards">
         <h2>MON PORTFOLIO</h2>
         <div className="cardsContainer">
-          {projectsData.map((projects) => (
+          {projectsData.project.map((projects) => (
             <Card
               key={projects.id}
               id={projects.id}
