@@ -6,7 +6,7 @@ function Header() {
         <header>
             <div className= "navbar" >
                 <nav>
-                <Link to="/" > Développement web </Link>
+                <Link to="/" > Communication digitale </Link>
                 </nav>
             </div>
             <Languages/>
