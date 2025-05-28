@@ -3,28 +3,28 @@
     {
       "id": "8c5f2e1a",
       "title": "Sacré-Coeur",
-      "cover": "../assets/thumbnails/thumbnail_sacre_coeur.webp",
+      "cover": "/src/assets/thumbnails/thumbnail_sacre_coeur.webp",
       "pictures": [
-        "../assets/carousel/sacre_coeur/sacre_coeur_01.webp",
-        "../assets/carousel/sacre_coeur/sacre_coeur_02.webp",
-        "../assets/carousel/sacre_coeur/sacre_coeur_03.webp",
-        "../assets/carousel/sacre_coeur/sacre_coeur_04.webp",
-        "../assets/carousel/sacre_coeur/sacre_coeur_05.webp",
-        "../assets/carousel/sacre_coeur/sacre_coeur_06.webp",
-        "../assets/carousel/sacre_coeur/sacre_coeur_07.webp",
-        "../assets/carousel/sacre_coeur/sacre_coeur_08.webp",
-        "../assets/carousel/sacre_coeur/sacre_coeur_09.webp",
-        "../assets/carousel/sacre_coeur/sacre_coeur_10.webp"
+        "/src/assets/carousel/sacre_coeur/sacre_coeur_01.webp",
+        "/src/assets/carousel/sacre_coeur/sacre_coeur_02.webp",
+        "/src/assets/carousel/sacre_coeur/sacre_coeur_03.webp",
+        "/src/assets/carousel/sacre_coeur/sacre_coeur_04.webp",
+        "/src/assets/carousel/sacre_coeur/sacre_coeur_05.webp",
+        "/src/assets/carousel/sacre_coeur/sacre_coeur_06.webp",
+        "/src/assets/carousel/sacre_coeur/sacre_coeur_07.webp",
+        "/src/assets/carousel/sacre_coeur/sacre_coeur_08.webp",
+        "/src/assets/carousel/sacre_coeur/sacre_coeur_09.webp",
+        "/src/assets/carousel/sacre_coeur/sacre_coeur_10.webp"
       ],
       "description": "Cette exposition a été conçue pour faire redécouvrir aux visiteurs, croyants ou curieux, la richesse spirituelle, historique et humaine du culte du Sacré-Cœur. L’exposition, dans un graphisme clair, solennel et épuré, retrace les grandes étapes de la révélation du Sacré-Cœur, depuis les apparitions du Christ à Sainte Marguerite-Marie Alacoque à Paray-le-Monial au XVIIe siècle, jusqu’à la dévotion enracinée à Grenoble."
     },
     {
       "id": "f5a9c2d1",
       "title": "Sainte Épine",
-      "cover": "../assets/thumbnails/thumbnail_sainte_epine.webp",
+      "cover": "/src/assets/thumbnails/thumbnail_sainte_epine.webp",
       "pictures": [
-        "../assets/carousel/sainte_epine/sainte_epine_01.webp",
-        "../assets/carousel/sainte_epine/sainte_epine_02.webp"
+        "/src/assets/carousel/sainte_epine/sainte_epine_01.webp",
+        "/src/assets/carousel/sainte_epine/sainte_epine_02.webp"
       ],
       "description": "Réalisée pour la cathédrale Notre-Dame de Grenoble, cette exposition propose une plongée dans l’histoire méconnue et pourtant profondément enracinée de deux reliques précieuses conservées à Grenoble : les saintes Épines vénérées jadis par les Clarisses et les Dominicaines. Témoins de la foi populaire et de la dévotion chrétienne autour de la Passion du Christ, ces épines issues – selon la tradition – de la Couronne portée par Jésus, ont traversé les siècles, les troubles politiques et les mutations religieuses. Les panneaux de l’exposition adoptent un graphisme à la fois simple et solennel, centré sur la lisibilité du texte et la mise en valeur du récit historique."
 
@@ -32,70 +32,70 @@
     {
       "id": "a1b2c3d4",
       "title": "Aumôniers du CHU",
-      "cover": "../assets/thumbnails/thumbnail _aumonier_chu.webp",
+      "cover": "/src/assets/thumbnails/thumbnail _aumonier_chu.webp",
       "pictures": [
-        "../assets/carousel/aumonier_chu/aumonier_chu_01.webp",
-        "../assets/carousel/aumonier_chu/aumonier_chu_02.webp",
-        "../assets/carousel/aumonier_chu/aumonier_chu_03.webp",
-        "../assets/carousel/aumonier_chu/aumonier_chu_04.webp",
-        "../assets/carousel/aumonier_chu/aumonier_chu_05.webp",
-        "../assets/carousel/aumonier_chu/aumonier_chu_06.webp"
+        "/src/assets/carousel/aumonier_chu/aumonier_chu_01.webp",
+        "/src/assets/carousel/aumonier_chu/aumonier_chu_02.webp",
+        "/src/assets/carousel/aumonier_chu/aumonier_chu_03.webp",
+        "/src/assets/carousel/aumonier_chu/aumonier_chu_04.webp",
+        "/src/assets/carousel/aumonier_chu/aumonier_chu_05.webp",
+        "/src/assets/carousel/aumonier_chu/aumonier_chu_06.webp"
       ],
       "description": "« Portraits d’aumôniers hospitaliers » est une série de vidéos consacrée aux femmes et aux hommes qui accompagnent spirituellement les patients dans les hôpitaux. Chaque épisode dresse le portrait sincère d’un aumônier ou d’une aumônière, au plus près de leur quotidien. Leur mission : écouter, soutenir, apaiser, dans le respect des convictions de chacun. Ces témoignages mettent en lumière une présence discrète mais essentielle au cœur de l’hôpital. Une série humaine et touchante à découvrir sur YouTube : https://www.youtube.com/watch?v=bGsPrhovBIM&list=PL60MV0tnEEaSA0qr7gonMdXtEgpSTVEmM"
     },
     {
       "id": "f8e7d6c5",
       "title": "La Bienvenue",
-      "cover": "../assets/thumbnails/thumbnail_la_bienvenue.webp",
+      "cover": "/src/assets/thumbnails/thumbnail_la_bienvenue.webp",
       "pictures": [
-        "../assets/carousel/la_bienvenue/la_bienvenue_01.webp"
+        "/src/assets/carousel/la_bienvenue/la_bienvenue_01.webp"
       ],
       "description": "Une vidéo promotionnelle pour La Bienvenue, lieu d’accueil chaleureux, à deux pas du tram Notre-Dame-Musée, ouvert à tous sans distinction. On peut y faire une pause, discuter, lire, ou simplement partager un café. Depuis 2019, des ateliers, des expositions et des temps d’écoute y sont proposés. C’est un espace où chacun peut se sentir respecté, écouté et libre d’être soi-même. Un endroit simple et essentiel, à découvrir au cœur de la ville : https://www.youtube.com/watch?v=HrLyMqsdGs4"
     },
     {
       "id": "2g3h4j5k",
       "title": "Saints du diocèse",
-      "cover": "../assets/thumbnails/thumbnail_saints_du_diocese.webp",
+      "cover": "/src/assets/thumbnails/thumbnail_saints_du_diocese.webp",
       "pictures": [
-        "../assets/carousel/saints_du_diocese/saint_du_diocese_01.webp"
+        "/src/assets/carousel/saints_du_diocese/saint_du_diocese_01.webp"
       ],
       "description": "Ces visuels mettent à l’honneur les saints du diocèse de Grenoble-Vienne. L'illustration mêle un style classique et réaliste à une touche contemporaine avec un fond aquarelle aux teintes chaudes (orange, rouge, rose), encadré par un carré blanc épuré qui structure la composition.\nLes textes typographiques, clairs et modernes, apportent une lisibilité immédiate : nom du saint, fonction, date de fête. Ce graphisme permet une identité visuelle harmonisée pour tous les saints du diocèse."
     },
     {
       "id": "f72a452f",
       "title": "Abbé Gerin - Instagram",
-      "cover": "../assets/thumbnails/thumbnail_abbe_gerin.webp",
+      "cover": "/src/assets/thumbnails/thumbnail_abbe_gerin.webp",
       "pictures": [
-        "../assets/carousel/abbe_gerin/abbe_gerin_04.webp"
+        "/src/assets/carousel/abbe_gerin/abbe_gerin_04.webp"
       ],
       "description": "Cette publication Instagram propose une composition artistique riche et symbolique autour de la figure de l’abbé Gerin, en vue de faire rayonner sa mémoire et sa cause de canonisation. Au centre de l’image, le portrait de l’abbé Gerin, traité dans des tons de bleu profonds, capte immédiatement le regard et s’impose comme le point focal de la composition. Autour de lui se déploie un riche univers visuel composé d’éléments étroitement liés à sa vie et à son époque : des édifices religieux, des personnages historiques, des objets symboliques, ainsi que des paysages et scènes de prière. L’ensemble est uni par une palette de couleurs vives et contrastées – bleus, rouges, ors, ocres et roses – qui compose une mosaïque à la fois dynamique et évocatrice, mettant en lumière la fécondité spirituelle de l’abbé et la pertinence de son héritage aujourd’hui. En arrière-plan, un motif géométrique discret sur fond blanc apporte une note de noblesse et de modernité."
     },
     {
       "id": "v3w2x1y0",
       "title": "Pèlerinage en Turquie",
-      "cover": "../assets/thumbnails/thumbnail_pelerinage_turquie.webp",
+      "cover": "/src/assets/thumbnails/thumbnail_pelerinage_turquie.webp",
       "pictures": [
-        "../assets/carousel/pelerinage_turquie/pelerinage_turquie_01.webp"
+        "/src/assets/carousel/pelerinage_turquie/pelerinage_turquie_01.webp"
       ],
       "description": "L’affiche met en valeur une illustration stylisée et lumineuse de paysages urbains inspirés des grands édifices byzantins de Turquie : coupoles, minarets, églises, basiliques et monastères s’entrelacent harmonieusement dans une composition riche et dense. Le visuel est dominé par des teintes chaudes et contrastées (orange, ocre, bleu, vert sapin), évoquant la richesse architecturale et spirituelle de l’Orient chrétien. Au sommet, un ciel en dégradé illustre la diversité des traditions chrétiennes représentées"
     },
     {
       "id": "m9n0p1q2",
       "title": "Pastorale des divorcés",
-      "cover": "../assets/thumbnails/thumbnail_pastorale_des_divorces.webp",
+      "cover": "/src/assets/thumbnails/thumbnail_pastorale_des_divorces.webp",
       "pictures": [
-        "../assets/carousel/pastorale_des_divorces/pastorale_des_divorces_01.webp"
+        "/src/assets/carousel/pastorale_des_divorces/pastorale_des_divorces_01.webp"
       ],
       "description": "Le visuel adopte une charte graphique simple, moderne et lisible, basée sur un duo de couleurs sobres : bleu nuit et rose poudré.\nL'illustration au centre représente un homme et une femme dos à dos, symbolisant la séparation, devant une église dessinée en ligne claire. Le contraste entre l’expression sérieuse des personnages et l’arrière-plan doux souligne la complexité humaine du thème, tout en laissant transparaître l’accueil de l’Église en toile de fond."
     },
     {
       "id": "h7i6j5k4",
       "title": "Abbé Gerin",
-      "cover": "../assets/thumbnails/thumbnail_abbe_gerin.webp",
+      "cover": "/src/assets/thumbnails/thumbnail_abbe_gerin.webp",
       "pictures": [
-        "../assets/carousel/abbe_gerin/abbe_gerin_01.webp",
-        "../assets/carousel/abbe_gerin/abbe_gerin_02.webp",
-        "../assets/carousel/abbe_gerin/abbe_gerin_03.webp"
+        "/src/assets/carousel/abbe_gerin/abbe_gerin_01.webp",
+        "/src/assets/carousel/abbe_gerin/abbe_gerin_02.webp",
+        "/src/assets/carousel/abbe_gerin/abbe_gerin_03.webp"
 
       ],
       "description": "Dans le cadre du procès en canonisation de l’Abbé Pierre-Victor Gerin, un groupe de fidèles s’est réuni pour valoriser sa mémoire, diffuser sa pensée et faire connaître son témoignage de vie. Afin de regrouper l’ensemble des informations utiles – textes, documents, actualités et ressources spirituelles – un site web dédié a été créé.Le choix du CMS WordPress s’est imposé pour sa simplicité d’utilisation, sa souplesse de mise à jour et la possibilité pour les membres du groupe en charge du projet de gérer eux-mêmes les contenus, en toute autonomie."
