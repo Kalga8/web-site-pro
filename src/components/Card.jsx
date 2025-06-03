@@ -1,7 +1,9 @@
 import { Link } from "react-router-dom";
+import { useTranslation } from "react-i18next";
 
 function Card ({ id, title, cover, alt }) {
   const url = `/project/${id} `;
+  let {t} = useTranslation();
 
   return (
     <Link to={url}>
@@ -11,7 +13,7 @@ function Card ({ id, title, cover, alt }) {
         </div>
 
         <div className="titleCard">
-          <h3> {title} </h3>
+          <h3> {t(`projects.${id}.title`, title)} </h3>
         </div>
       </div>
     </Link>

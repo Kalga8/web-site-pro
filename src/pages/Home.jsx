@@ -5,14 +5,17 @@ import CompetencesLogos from "../components/CompetencesLogos";
 import presentationImage from "/src/assets/profils/profil-dev-web.webp";
 import projectsData from "../data/projects.json";
 import competencesData from "../data/competences.json";
+import { useTranslation } from "react-i18next";
 
 function Home() {
+  let {t} = useTranslation();
+
   return (
     <div className="homeBody">
-      <Banner image={presentationImage}  title="Communication digitale" />
+      <Banner image={presentationImage} />
 
       <div className="sectionCards">
-        <h2>MON PORTFOLIO</h2>
+        <h2>{t("home.title")}</h2>
         <div className="cardsContainer">
           {projectsData.project.map((projects) => (
             <Card

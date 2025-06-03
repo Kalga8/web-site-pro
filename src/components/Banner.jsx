@@ -1,8 +1,12 @@
-import githubLink from "../../public/assets/logos/logo-github.webp"
-import instaLink from "../../public/assets/logos/logo-insta.webp"
-import linkedinLink from "../../public/assets/logos/logo-linkedin.webp"
+import githubLink from "../../public/assets/logos/logo-github.webp";
+import instaLink from "../../public/assets/logos/logo-insta.webp";
+import linkedinLink from "../../public/assets/logos/logo-linkedin.webp";
+import { useTranslation } from "react-i18next";
 
-function banner ({image, title}) {
+function banner ({image}) {
+    let {t} = useTranslation();
+
+
     return (
         <div className="banner-container">
             <div className="presentation">
@@ -10,10 +14,10 @@ function banner ({image, title}) {
                      src={image} alt="image-web-profil"/>
 
                 <div className="bannerTitle">
-                    <h1> {title} </h1>
+                    <h1> {t('banner.title')} </h1>
 
                     <div className="cvButton">
-                        <a href="../assets/documents/CV_Justine_Launay.pdf" target="_blank" rel="noopener noreferrer"> Télécharger mon cv </a>
+                        <a href="/assets/documents/CV_Justine_Launay.pdf" target="_blank" rel="noopener noreferrer"> {t('banner.cvButton')} </a>
                     </div>
                 </div>
             </div>

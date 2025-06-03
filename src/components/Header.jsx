@@ -1,17 +1,22 @@
-import { Link } from "react-router-dom"
-import Languages from "./Languages/"
+import { Link } from "react-router-dom";
+import { useTranslation } from "react-i18next";
+import LanguageSwitcher from "./Languages.jsx";
 
 function Header() {
+    const { t } = useTranslation();
+
     return (
         <header>
-            <div className= "navbar" >
+            <div className="navbar">
                 <nav>
-                <Link to="/" > Communication digitale </Link>
+                    {/* Utilisez la fonction t() pour traduire le lien */}
+                    <Link to="/" > {t('header.digitalCommunicationLink')} </Link>
                 </nav>
             </div>
-            <Languages/>
+            {/* Intégration des boutons de changement de langue */}
+            <LanguageSwitcher />
         </header>
-    )
+    );
 }
 
-export default Header
+export default Header;

@@ -45,6 +45,7 @@
         width: 70%;
         height: 80%;
         grid-template-columns: 1fr 1fr 1fr;
+        gap: 3%;
 
         .competence-logo {
             display: flex;
@@ -52,7 +53,7 @@
             align-items: center;
 
             img {
-            width: 60%;
+            width: 50%;
             }
 
                 h3 {
@@ -100,9 +101,14 @@
                 width: 100%;
     
                     p {
-                    display: flex;
-                    font-size: 150%;
+                    //display: flex;
+                    //font-size: 150%;
                     text-align: justify;
+                    font-size:1.4rem;
+                    hyphens: auto;
+                    -webkit-hyphens: auto;
+                    -moz-hyphens: auto;
+                    word-break: break-word;
                     }
                 }
             }

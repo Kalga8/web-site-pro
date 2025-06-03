@@ -1,20 +1,11 @@
-import React, { useState } from "react";
-
+import { useTranslation } from 'react-i18next';
 
 function LanguageSwitcher () {
-        const switchLanguage = (language) => {
-            switch (language) {
-                case 'en':
-                    setLang('en');
-                    i18n.changeLanguage('en');
-                    break;
-                case 'fr':
-                default:
-                    setLang('fr');
-                    i18n.changeLanguage('fr');
-                    break;
-            }
-        };
+    const { i18n } = useTranslation();
+
+    const switchLanguage = (language) => {
+        i18n.changeLanguage(language);
+    };
 
     return (
         <div className ="languages">

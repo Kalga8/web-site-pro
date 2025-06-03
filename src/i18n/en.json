@@ -5,5 +5,54 @@
     },
     "header": {
         "digitalCommunicationLink": "Digital Communication"
+    },
+    "banner": {
+        "title": "Digital Communication",
+        "cvButton": "Download my CV"
+    },
+    "home": {
+        "title" : "MY PORTFOLIO"
+    },
+    "competences": {
+        "title": "My Skills",
+        "text": "I master visual and video creation tools such as Photoshop, Lightroom, Première Pro, and Canva. Trained in web development, I am comfortable with code (HTML, CSS, JavaScript basics) in addition to managing WordPress sites. I am also comfortable with managing websites via WordPress, as well as with collaborative tools like the Microsoft suite, Slack, and ChatGPT. <br/> My experience in digital communication has allowed me to develop varied content, adapted to different audiences and media. Creative, organized, and autonomous, I know how to adapt to the needs of a team or a project."
+    },
+    "projects": {
+        "8c5f2e1a": {
+            "title": "Sacré-Coeur",
+            "description": "This exhibition was designed to help visitors, believers or curious, rediscover the spiritual, historical and human richness of the cult of the Sacred Heart. The exhibition, in a clear, solemn and refined graphic design, traces the major stages of the revelation of the Sacred Heart, from the apparitions of Christ to Saint Margaret Mary Alacoque in Paray-le-Monial in the 17th century, to the devotion rooted in Grenoble."
+        },
+        "f5a9c2d1": {
+            "title": "Holy Thorn",
+            "description": "Produced for the Notre-Dame Cathedral in Grenoble, this exhibition offers a dive into the little-known yet deeply rooted history of two precious relics preserved in Grenoble: the holy Thorns once venerated by the Poor Clares and the Dominicans. Witnesses of popular faith and Christian devotion around the Passion of Christ, these thorns – according to tradition – from the Crown worn by Jesus, have survived through centuries, political unrest, and religious changes. The exhibition panels adopt a simple and solemn graphic style, focused on text readability and highlighting the historical narrative."
+        },
+        "a1b2c3d4": {
+            "title": "Hospital Chaplains",
+            "description": "'Portraits of Hospital Chaplains' is a video series dedicated to the men and women who spiritually accompany patients in hospitals. Each episode paints a sincere portrait of a chaplain, as close as possible to their daily lives. Their mission: to listen, support, soothe, respecting everyone's beliefs. These testimonies highlight a discreet but essential presence at the heart of the hospital. A human and touching series to discover on YouTube: https://www.youtube.com/watch?v=bGsPrhovBIM&list=PL60MV0tnEEaSA0qr7gonMdXtEgpSTVEmM"
+        },
+        "f8e7d6c5": {
+            "title": "La Bienvenue",
+            "description": "A promotional video for La Bienvenue, a warm welcoming place, a stone's throw from the Notre-Dame-Musée tram stop, open to all without distinction. You can take a break, chat, read, or simply share a coffee. Since 2019, workshops, exhibitions, and listening times have been offered. It is a space where everyone can feel respected, listened to, and free to be themselves. A simple and essential place, to discover in the heart of the city: https://www.youtube.com/watch?v=HrLyMqsdGs4"
+        },
+        "2g3h4j5k": {
+            "title": "Saints of the Diocese",
+            "description": "These visuals honor the saints of the Diocese of Grenoble-Vienne. The illustration blends a classic and realistic style with a contemporary touch, featuring a watercolor background in warm tones (orange, red, pink), framed by a clean white square that structures the composition.\nThe clear and modern typographic texts provide immediate readability: saint's name, role, feast day. This graphic design allows for a harmonized visual identity for all the saints of the diocese."
+        },
+        "f72a452f": {
+            "title": "Abbé Gerin - Instagram",
+            "description": "This Instagram post offers a rich and symbolic artistic composition around the figure of Abbé Gerin, aiming to promote his memory and cause for canonization. At the center of the image, the portrait of Abbé Gerin, treated in deep blue tones, immediately captures the gaze and establishes itself as the focal point of the composition. Around him unfolds a rich visual universe composed of elements closely linked to his life and era: religious buildings, historical figures, symbolic objects, as well as landscapes and prayer scenes. The ensemble is united by a palette of bright and contrasting colors – blues, reds, golds, ochres, and pinks – creating a mosaic that is both dynamic and evocative, highlighting the spiritual fruitfulness of the abbé and the relevance of his legacy today. In the background, a discreet geometric pattern on a white background adds a note of nobility and modernity."
+        },
+        "v3w2x1y0": {
+            "title": "Pèlerinage en Turquie",
+            "description": "The poster highlights a stylized and luminous illustration of urban landscapes inspired by the great Byzantine edifices of Turkey: domes, minarets, churches, basilicas, and monasteries intertwine harmoniously in a rich and dense composition. The visual is dominated by warm and contrasting hues (orange, ochre, blue, fir green), evoking the architectural and spiritual richness of the Christian East. At the top, a gradient sky illustrates the diversity of Christian traditions represented."
+        },
+        "m9n0p1q2": {
+            "title": "Pastoral Care for the Divorced",
+            "description": "The visual adopts a simple, modern, and readable graphic charter, based on a sober color duo: midnight blue and powder pink.\nThe central illustration depicts a man and a woman back-to-back, symbolizing separation, in front of a church drawn in a clear line style. The contrast between the serious expression of the characters and the soft background emphasizes the human complexity of the theme, while also hinting at the Church's welcome in the background."
+        },
+        "h7i6j5k4": {
+            "title": "Abbé Gerin",
+            "description": "As part of the canonization process for Abbé Pierre-Victor Gerin, a group of faithful gathered to promote his memory, disseminate his thought, and make known his life testimony. To consolidate all useful information – texts, documents, news, and spiritual resources – a dedicated website was created. The choice of WordPress CMS was made for its ease of use, flexibility for updates, and the ability for the project group members to manage content themselves, autonomously."
+        }
     }
 }
