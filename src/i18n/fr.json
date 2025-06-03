@@ -2,5 +2,8 @@
     "common": {
         "translate-button": "FR",
         "translated-text": "C'est du français"
+    },
+    "header": {
+        "digitalCommunicationLink": "Communication digitale"
     }
 }

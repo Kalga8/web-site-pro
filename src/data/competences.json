@@ -1,56 +1,56 @@
 [
     {
         "id": "L1",
-        "logo": "src/assets/logos/logo-premiere-pro.webp",
+        "logo": "/assets/logos/logo-premiere-pro.webp",
         "alt": "Logo Premiere Pro",
         "title": "PREMIÈRE PRO"
     },
 
     {
         "id": "L2",
-        "logo": "/src/assets/logos/logo-lightroom.webp",
+        "logo": "/assets/logos/logo-lightroom.webp",
         "alt": "Logo Lightroom",
         "title": "LIGHTROOM"
     },
 
     {
         "id": "L3",
-        "logo": "src/assets/logos/logo-photoshop.webp",
+        "logo": "/assets/logos/logo-photoshop.webp",
         "alt": "Logo Photoshop",
         "title": "PHOTOSHOP"
     },
 
     {
         "id": "L4",
-        "logo": "src/assets/logos/logo-canva.webp",
+        "logo": "/assets/logos/logo-canva.webp",
         "alt": "Logo Canva",
         "title": "CANVA"
     },
 
     {
         "id": "L5",
-        "logo": "src/assets/logos/logo-wordpress.webp",
+        "logo": "/assets/logos/logo-wordpress.webp",
         "alt": "Logo WordPress",
         "title": "WORDPRESS"
     },
 
     {
         "id": "L6",
-        "logo": "src/assets/logos/logo-microsoft.webp",
+        "logo": "/assets/logos/logo-microsoft.webp",
         "alt": "Logo Microsoft",
         "title": "MICROSOFT"
     },
 
     {
         "id": "L7",
-        "logo": "src/assets/logos/logo-chatgpt.webp",
+        "logo": "/assets/logos/logo-chatgpt.webp",
         "alt": "Logo Chat GPT",
         "title": "CHATGPT"
     },
 
     {
         "id": "L8",
-        "logo": "src/assets/logos/logo-slack.webp",
+        "logo": "/assets/logos/logo-slack.webp",
         "alt": "Logo Slack",
         "title": "SLACK"
     }

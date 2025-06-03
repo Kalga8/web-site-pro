@@ -1,11 +1,11 @@
 import i18n from "i18next";
 import { initReactI18next } from "react-i18next";
 import LanguageDetector from 'i18next-browser-languagedetector';
-import Language from "./components/Languages";
 import translationEN from './i18n/en.json';
 import translationFR from './i18n/fr.json';
- 
-let defaultLanguage = Language.FR;
+
+// définition de la langue par défaut
+let defaultLanguage = 'fr';
  
 // the translations
 const resources = {
@@ -22,8 +22,8 @@ i18n
   .use(initReactI18next) // passes i18n down to react-i18next
   .init({
     resources,
-    lng: defaultLanguage,
- 
+    lng: defaultLanguage, // Langue à utiliser si aucune n'est détectée
+    fallbackLng:'fr',
     keySeparator: ".",  // to support nested translations
  
     interpolation: {
